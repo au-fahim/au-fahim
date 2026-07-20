@@ -6,8 +6,12 @@
 <!--- title --->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello 👋, I'm Ashraf Uddin Fahim</h1></summary>
-    <p>Frontend Developer</p>
+    <summary>
+      <h1 style="display: inline-block">
+        Hello 👋, I'm Ashraf Uddin Fahim<br>
+        <sub>Frontend Developer</sub>
+      </h1>
+    </summary>
   </ul>
 </div>
 
