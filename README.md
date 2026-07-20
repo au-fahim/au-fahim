@@ -30,7 +30,7 @@
 <div>
   <p align="left">
     <a href="https://www.linkedin.com/in/devfahim/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://dev.to/aufahim" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" height="30" width="40" /></a>
+    <a href="https://dev.to/aufahim" target="_blank"><img src="./Banner/dev-to-svgrepo-com.svg" alt="Dev.to" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/22270571/ashraf-uddin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
     <a href="mailto:dev.aufahim@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" width="40" /></a>
   </p>
