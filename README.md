@@ -25,7 +25,7 @@
 <br/>
 
 <!--- socials --->
-## <img src="https://img.icons8.com/fluency/48/network.png" width="30"><b> FOLLOW ME ON SOCIALS:</b>
+## <img src="https://img.icons8.com/fluency/48/network.png" width="30"><b> CONNECT WITH ME:</b>
 
 <div>
   <p align="left">
